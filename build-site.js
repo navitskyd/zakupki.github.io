@@ -47,7 +47,7 @@ iframe.main-pane {
 </style>
 `;
 
-let outputFileName = `./index2.html`;
+let outputFileName = `./index.html`;
 fs.writeFile(outputFileName, styles + outputBuffer.html(), "utf8", (err) => {
     if (err) throw err;
     console.log(`The file ${outputFileName} has been saved!`);
