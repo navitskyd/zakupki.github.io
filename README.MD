@@ -1,1 +1,1 @@
-<a href="https://zakupki.github.io">Go</a>
+<a href="https://navitskyd.github.io/zakupki.github.io/">Go</a>
